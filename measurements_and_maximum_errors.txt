@@ -1,5 +1,5 @@
 Input voltage [V]    Input voltage [V]     Output Voltage [V]    Maximum error [V]   Maximum error [V]   Maximum error [V]
-  Wavetek 9100        Agilent 34410 A        Agilent 3458A         Wavetek 9100       Agilent 34410 A     Agilent 3458A 
+  Wavetek 9100        Agilent 34410A         Agilent 3458A         Wavetek 9100       Agilent 34410A      Agilent 3458A 
   4.00000000          4.00060034             2.481482e-02          3.520000e-03       5.400360e-03        3.737037e-06
   4.02500000          4.02575250             2.496988e-02          3.530000e-03       5.415451e-03        3.747892e-06
   4.05000000          4.05047775             2.512407e-02          3.540000e-03       5.430287e-03        3.758685e-06
