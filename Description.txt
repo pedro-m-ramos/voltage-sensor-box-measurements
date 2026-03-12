@@ -1,0 +1,1 @@
+Input and output voltages and corresponding maximum errors for sensor-box calibration
